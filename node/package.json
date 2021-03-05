@@ -1,0 +1,11 @@
+{
+  "name": "ws_test",
+  "version": "0.1.0",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start"
+  },
+  "dependencies": {
+    "ws": "^7.4.3"
+  }
+}
